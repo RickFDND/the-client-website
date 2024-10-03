@@ -1,0 +1,33 @@
+body{
+   display: grid;
+   grid-template-columns: 1fr 3fr 1fr;
+   grid-template-rows: 3fr 10fr 1fr 1fr;
+    background-color: black;
+    background-image: url('image.png');
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    max-height: 95vh;
+    background-position-x: -7em;
+    background-position-y: 6em; ;
+}
+p{
+    color: white;
+    text-align: center;
+}
+.container{
+    grid-column: 2;
+    grid-row: 2;
+
+}
+button{
+   grid-column: 2;
+    grid-row: 3;
+    justify-self: center;
+    align-self: center;
+    background-color: black;
+    color: white;
+    width: 45px;
+    height: 45px;
+    border-radius: 37.5px;
+    border: solid white 1px;
+}
