@@ -1,9 +1,41 @@
 body{
-    background-color: black;
+    display:grid;
+    grid-template-columns: 10fr;
+    grid-template-rows: 4fr 2fr 0.5fr 1fr 2fr 1fr;
+    background-color: rgb(0, 0, 0);
+    background-image: url('image.png');
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    background-position-x: -7em;
+    background-position-y: 6em; ;
+}
+
+
+
+.container{
+    grid-row: 4;    
+}
+li{
+    grid-row: 5;
 }
 p{
     color:white;
 }
 h1{
+   grid-row: 2;
+    font-size: 3em;
     color: white;
+    
+}
+button{ 
+    grid-row: 6;
+   width: 107px;
+   height: 43px;
+   align-self: center;
+   justify-self: center;
+   background-color: black; color: white;
+  border-radius: 37.5px;
+  padding:12px;
+  gap: 10px;
+  border: solid white 1px;
 }
