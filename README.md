@@ -15,18 +15,17 @@ De website: https://rickfdnd.github.io/the-client-website/index.html
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
 Pagina 1:
 
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/7640f068-f760-4de2-8ed7-10d19754c761">
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/7640f068-f760-4de2-8ed7-10d19754c761">
 
 Als je op "Starten" klikt dan ga je naar de volgende stap.
 
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/a7712da6-e5b1-4c5b-93c1-353011b78674">
 
+Met de pijltjes kan je naar de volgende.
 
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/42dbdc08-42d2-4dd4-8e82-d8a828a3ec31">
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
