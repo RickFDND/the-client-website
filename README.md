@@ -19,7 +19,7 @@ De website: https://rickfdnd.github.io/the-client-website/index.html
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
 Pagina 1:
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/7640f068-f760-4de2-8ed7-10d19754c761"
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/7640f068-f760-4de2-8ed7-10d19754c761">
 
 
 Als je op "Starten" klikt dan ga je naar de volgende stap.
