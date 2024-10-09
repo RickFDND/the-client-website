@@ -1,0 +1,22 @@
+body{
+    display: grid;
+    grid-template-columns:100%;
+    grid-template-rows: 1fr 2fr 1fr 9fr 2fr 2fr 3fr 2fr;
+    background-color: black;
+    color: white;
+    height: 98vh;
+}
+
+h1{
+    grid-row: 2;
+    width:180px;
+}
+
+h2{
+    grid-row: 5;
+    font-size: 48px;
+}
+
+p{
+    grid-row: 6;
+}
