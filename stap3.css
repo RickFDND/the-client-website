@@ -20,3 +20,31 @@ h2{
 p{
     grid-row: 6;
 }
+
+.container{
+    grid-row: 7;
+}
+
+.button{
+    display: flex;
+    grid-row: 8;
+    justify-content: center;
+    gap: 5px;
+}
+
+button{
+    grid-row: 8 ;
+    justify-self: center;
+    align-self: center;
+    background-color: black;
+    color: white;
+    width: 45px;
+    height: 45px;
+    border-radius: 37.5px;
+    border: solid white 1px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
