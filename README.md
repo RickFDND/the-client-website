@@ -1,9 +1,5 @@
 # The Client - Website
 
-Ontwerp en maak een website voor een opdrachtgever en bespreek het resultaat tijdens de Sprint Review.
-
-De instructie van deze leertaak staan in de [INSTRUCTIONS](https://github.com/fdnd-task/the-client-website/blob/main/docs/INSTRUCTIONS.md)
-
 Ik werk voor de opdrachtgever Drop&Heal en zij willen dat ik een webapp maak die nog niet volledig af is.
 De website: https://rickfdnd.github.io/the-client-website/index.html
 
@@ -28,7 +24,7 @@ Met de pijltjes kan je naar de volgende.
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/42dbdc08-42d2-4dd4-8e82-d8a828a3ec31">
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+Ik heb HTML en CSS gebruikt. In de HTML is de button een belangrijk onderdeel geweest om naar de andere pagina's te gaan. In CSS is de grid en flex layout goed van pas gekomen om in te delen waar alle tekst moest zijn.
 
 
 
